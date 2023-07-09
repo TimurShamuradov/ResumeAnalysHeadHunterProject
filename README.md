@@ -25,7 +25,11 @@ https://drive.google.com/drive/folders/1tIyrxAw24DwlB-GqwFXF9ZqpOJ_ZHmzf
 8. Графики должны иметь название, отражающее их суть, и обозначения осей.
 9. Выводы к графикам должны быть представлены в виде небольших связных предложений на русском языке, оформленных в формате Markdown под графиком в отдельной ячейке.
 
-## Installation
+# Результаты:
+
+[Ноутбук с выполненными заданиями и выводами](https://github.com/TimurShamuradov/ResumeAnalysHeadHunterProject/blob/master/DS-Project-1_Analyzing_Resumes_from_HeadHunter.ipynb)
+
+## Установка
 
 Клонируйте этот репозиторий локально:
 
