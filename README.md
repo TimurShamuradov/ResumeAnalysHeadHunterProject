@@ -1,30 +1,33 @@
-# SkillFactory-Project 1: Analyzing Resumes from HeadHunter
+# SkillFactory-Project 1: Анализ резюме от HeadHunter
 
-This repository contains a Jupyter Notebook where we perform an analysis on resumes data from the HeadHunter job board. Our goal is to extract insights about the job market.
+Этот репозиторий содержит блокнот Jupyter, где мы проводим анализ данных резюме с доски объявлений HeadHunter. Наша цель — получить представление о рынке труда.
 
-## Project Description
+Ссылка GoogleDrive на исходный data frame:
+https://drive.google.com/drive/folders/1tIyrxAw24DwlB-GqwFXF9ZqpOJ_ZHmzf
 
-The project involves using data science to analyze a large dataset of resumes. This includes data cleaning, exploratory data analysis (EDA), and possibly some predictive modeling.
+## Описание Проекта
 
-## Dataset
+Проект включает в себя использование науки о данных для анализа большого набора данных резюме. Это включает в себя очистку данных, исследовательский анализ данных (EDA) и визуализация данных.
 
-The dataset used in this project is downloaded from HeadHunter, a popular job search website. It contains numerous resumes from various fields and industries.
+## Набор данных
 
-## Requirements
+Набор данных, используемый в этом проекте, загружается с HeadHunter, популярного веб-сайта по поиску работы. Он содержит многочисленные резюме из различных областей и отраслей.
 
-1. The solution must be developed exclusively within a Jupyter Notebook and in accordance with the provided template.
-2. Each task should be performed in a separate cell assigned for the task in the template.
-3. Code for each task should be composed within one or two Jupyter cells.
-4. The solution must only use the following covered material: variables, basic data structures (lists, dictionaries, sets), loops, functions, numpy, pandas, matplotlib, seaborn, and plotly libraries.
-5. The code must be readable and understandable: variable and function names should reflect their essence, and multi-line constructions and conditions should be avoided.
-6. Adhere to the PEP 8 Python style guide.
-7. Graphs must be formatted according to the rules covered in the data visualization module.
-8. Graphs must contain a title reflecting their essence and axis labels.
-9. Conclusions to the graphs should be presented in the form of small coherent sentences in Russian language, formatted in Markdown under the graph in a separate cell.
+## Требования
+
+1. Решение должно быть разработано исключительно в рамках Jupyter Notebook и в соответствии с предоставленным шаблоном.
+2. Каждое задание должно выполняться в отдельной ячейке, отведенной для задания в шаблоне.
+3. Код для каждой задачи должен быть составлен в пределах одной или двух ячеек Jupyter.
+4. Решение должно использовать только следующий пройденный материал: переменные, базовые структуры данных (списки, словари, наборы), циклы, функции, библиотеки numpy, pandas, matplotlib, seaborn и plotly.
+5. Код должен быть читабельным и понятным: имена переменных и функций должны отражать их суть, следует избегать многострочных конструкций и условий.
+6. Придерживайтесь руководства по стилю PEP 8 Python.
+7. Графики должны быть отформатированы в соответствии с правилами, описанными в модуле визуализации данных.
+8. Графики должны иметь название, отражающее их суть, и обозначения осей.
+9. Выводы к графикам должны быть представлены в виде небольших связных предложений на русском языке, оформленных в формате Markdown под графиком в отдельной ячейке.
 
 ## Installation
 
-Clone this repository locally:
+Клонируйте этот репозиторий локально:
 
-```bash
-git clone https://github.com/TimurShamuradov/ResumeAnalysHeadHunterProject.git
+``` bash
+clone git https://github.com/TimurShamuradov/ResumeAnalysHeadHunterProject.git
